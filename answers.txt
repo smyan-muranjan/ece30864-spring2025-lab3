@@ -6,3 +6,5 @@ Pros:
 Cons:
 - Because of the iterative nature of Agile, it can lead to unpredictable timelines as issues might come up that take longer than expected, delaying an engineer.
 - Agile can be inefficient for very large projects and can lead to complex dependency across several teams for a single story.
+b)
+The Scrum Master is responsible for ensuring that the Scrum framework is followed. This includes leading sprint planning and other Scrum related meetings as well as collaborating to make sure everyone stays on track. The Product Owner represents the customer and is responsible for guiding the team vision and deliverables. This includes things such as managing and creating new issues as well as communicating with the stakeholders.
