@@ -1,0 +1,8 @@
+a)
+Pros:
+- Using Agile Development allows for flexibility and adaptability as stories can be modified and changed to fit demands as needed.
+- Using Agile Development allows for iterative development which allows product owners to view the incremental changes, instead of a single update for the owners.
+
+Cons:
+- Because of the iterative nature of Agile, it can lead to unpredictable timelines as issues might come up that take longer than expected, delaying an engineer.
+- Agile can be inefficient for very large projects and can lead to complex dependency across several teams for a single story.
