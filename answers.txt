@@ -18,3 +18,8 @@ c)
 3. Sprint Review
 - Demonstration of each team members work during the sprint is shown.
 - Feedback from the product owner and stakeholders is shared with the team.
+d)
+Epic: Represents a large body of work that could span for multiple sprints which includes stories and tasks.
+Story: A single functionality or feature that is worked on by a team member from the viewpoint of the user.
+Bug: A defect or error in the product that is typically related to a story.
+Task: A generic work item that is often not user-facing and doesn't fit as a story or bug.
