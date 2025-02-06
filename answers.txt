@@ -8,3 +8,13 @@ Cons:
 - Agile can be inefficient for very large projects and can lead to complex dependency across several teams for a single story.
 b)
 The Scrum Master is responsible for ensuring that the Scrum framework is followed. This includes leading sprint planning and other Scrum related meetings as well as collaborating to make sure everyone stays on track. The Product Owner represents the customer and is responsible for guiding the team vision and deliverables. This includes things such as managing and creating new issues as well as communicating with the stakeholders.
+c)
+1. Sprint Planning
+- The goal for the upcoming sprint is set to align with the product vision
+- Backlog items are discussed and assigned to team members.
+2. Daily Scrum
+- Progress updates for each team member are shared.
+- Any blockers are discussed that could be preventing team members from working.
+3. Sprint Review
+- Demonstration of each team members work during the sprint is shown.
+- Feedback from the product owner and stakeholders is shared with the team.
